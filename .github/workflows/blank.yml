@@ -9,7 +9,7 @@ on:
 # Definindo os jobs que o workflow executará
 jobs:
   build-and-test:
-    runs-on: ubuntu-hosted
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
