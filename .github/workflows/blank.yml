@@ -1,0 +1,24 @@
+# Definindo o nome do workflow
+name: CI/CD Pipeline
+
+# Definindo quando o workflow será executado
+on:
+  push:
+    branches: ['main', 'developer']
+
+# Definindo os jobs que o workflow executará
+jobs:
+  build-and-test:
+    runs-on: ubuntu-hosted
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Docker Login       
+        uses: docker/login-action@v3.3.0
+        with:
+          username: vinicius1183
+          password: ${{ secrets.DOCKER_HUB_PASSWORD }}
+        
+          
