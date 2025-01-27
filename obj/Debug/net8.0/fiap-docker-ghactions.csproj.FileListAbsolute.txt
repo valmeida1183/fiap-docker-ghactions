@@ -1,0 +1,14 @@
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\bin\Debug\net8.0\fiap-docker-ghactions.exe
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\bin\Debug\net8.0\fiap-docker-ghactions.deps.json
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\bin\Debug\net8.0\fiap-docker-ghactions.runtimeconfig.json
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\bin\Debug\net8.0\fiap-docker-ghactions.dll
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\bin\Debug\net8.0\fiap-docker-ghactions.pdb
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\obj\Debug\net8.0\fiap-docker-ghactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\obj\Debug\net8.0\fiap-docker-ghactions.AssemblyInfoInputs.cache
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\obj\Debug\net8.0\fiap-docker-ghactions.AssemblyInfo.cs
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\obj\Debug\net8.0\fiap-docker-ghactions.csproj.CoreCompileInputs.cache
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\obj\Debug\net8.0\fiap-docker-ghactions.dll
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\obj\Debug\net8.0\refint\fiap-docker-ghactions.dll
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\obj\Debug\net8.0\fiap-docker-ghactions.pdb
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\obj\Debug\net8.0\fiap-docker-ghactions.genruntimeconfig.cache
+C:\TI\Pos Graduacao\FIAP\FASE 2\1 GitHub Actions\fiap-docker-ghactions\obj\Debug\net8.0\ref\fiap-docker-ghactions.dll

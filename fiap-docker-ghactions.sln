@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fiap-docker-ghactions", "fiap-docker-ghactions.csproj", "{5A72D954-2A63-4725-7AC5-4DF20BB44CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A72D954-2A63-4725-7AC5-4DF20BB44CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A72D954-2A63-4725-7AC5-4DF20BB44CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A72D954-2A63-4725-7AC5-4DF20BB44CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A72D954-2A63-4725-7AC5-4DF20BB44CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8937FC2-8902-4183-8BDC-5D71F0436B25}
+	EndGlobalSection
+EndGlobal
